@@ -6,11 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=680&lines=IIT+Madras+%E2%80%94+Mechanical+Engineering;Quant+Trading+%2F+Quant+Research;GARCH+%7C+SVI+%7C+Vol+Surfaces+%7C+Market+Microstructure;Building+things+that+price+risk+correctly.)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=26Yash26&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/26Yash26?color=00F5D4&style=for-the-badge&label=FOLLOWERS&labelColor=0f0c29)
-
 </div>
 
 <br/>
