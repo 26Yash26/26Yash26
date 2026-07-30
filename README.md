@@ -6,7 +6,7 @@
 
 ## About Me
 
-Interested probability, linear algebra, logic and programming.
+Interested probability, linear algebra, logic and programming and building stuff.
 
 ---
 
