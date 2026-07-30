@@ -29,14 +29,6 @@ Interested probability, linear algebra, logic and programming.
 
 ---
 
-## Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=26Yash26&theme=minimal&bg_color=ffffff&color=222222&line=222222&point=222222&hide_border=true&hide_title=true" width="90%"/>
-</div>
-
----
-
 <div align="center">
 
 [GitHub](https://github.com/26Yash26) · [LinkedIn](https://www.linkedin.com/in/yaswanth-sanapala-79034b175/)
