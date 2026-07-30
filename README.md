@@ -8,7 +8,7 @@
 
 ## About Me
 
-Drawn to math for its own sake — probability, linear algebra, the kind of problem worth sitting with. That same instinct carries over into building things: models, tools, small systems that didn't exist until I made them.
+Interested probability, linear algebra, logic and programming.
 
 ---
 
@@ -20,19 +20,11 @@ Drawn to math for its own sake — probability, linear algebra, the kind of prob
 <a href="https://github.com/26Yash26/vol_surface_model">
 <img src="https://opengraph.githubassets.com/1/26Yash26/vol_surface_model" width="49%" />
 </a>
-
 <a href="https://github.com/26Yash26/GuildRecruitmentPhaseI">
 <img src="https://opengraph.githubassets.com/1/26Yash26/GuildRecruitmentPhaseI" width="49%" />
 </a>
 <a href="https://github.com/26Yash26/SelfBallBalancingBeam">
 <img src="https://opengraph.githubassets.com/1/26Yash26/SelfBallBalancingBeam" width="49%" />
-</a>
-
-<a href="https://github.com/26Yash26/WebOCR">
-<img src="https://opengraph.githubassets.com/1/26Yash26/WebOCR" width="49%" />
-</a>
-<a href="https://github.com/26Yash26/OCR_TTS_App">
-<img src="https://opengraph.githubassets.com/1/26Yash26/OCR_TTS_App" width="49%" />
 </a>
 
 ---
