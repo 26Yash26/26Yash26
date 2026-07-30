@@ -21,9 +21,8 @@
 name:        Yaswanth "Yash" Sanapala
 base:        Hyderabad, India
 institute:   IIT Madras — Mechanical Engineering
-focus:       Quantitative Finance & Trading
-targets:     IMC · Optiver · Jane Street · SIG · DaVinci · QRT · Flow Traders
-status:      "actively building + recruiting for quant trading/research roles"
+focus:       Build Stuff
+status:      "actively building"
 ```
 
 <br/>
@@ -115,13 +114,6 @@ A classic controls problem — real-time feedback control to balance a ball on a
 </div>
 
 <br/>
-
-## `> stats.render()`
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=26Yash26&show_icons=true&theme=chartreuse-dark&bg_color=0f0c29&title_color=00F5D4&icon_color=00F5D4&text_color=c9c9c9&border_color=302b63&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=26Yash26&layout=compact&theme=chartreuse-dark&bg_color=0f0c29&title_color=00F5D4&text_color=c9c9c9&border_color=302b63&hide_border=false" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=26Yash26&theme=dark&background=0f0c29&stroke=302b63&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&hide_border=true" />
