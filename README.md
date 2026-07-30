@@ -6,6 +6,12 @@
 
 ---
 
+## About Me
+
+Drawn to math for its own sake — probability, linear algebra, the kind of problem worth sitting with. That same instinct carries over into building things: models, tools, small systems that didn't exist until I made them.
+
+---
+
 ## Repositories
 
 <a href="https://github.com/26Yash26/garch-volatility-regime-strategy">
