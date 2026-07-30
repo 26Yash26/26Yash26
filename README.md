@@ -1,10 +1,6 @@
 <div align="center">
 
-# YASWANTH SANAPALA
-
-`IIT Madras — Mechanical Engineering`
-
-<img src="https://latex.codecogs.com/svg.image?%5Cdpi%7B110%7D%5Ccolor%7Bwhite%7D%5Cint_%7B-%5Cinfty%7D%5E%7B%5Cinfty%7De%5E%7B-x%5E2%7D%5C%2Cdx%3D%5Csqrt%7B%5Cpi%7D" alt="gaussian-integral"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=YASWANTH%20SANAPALA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=IIT%20Madras%20%E2%80%94%20Mechanical%20Engineering&descAlignY=58&descSize=16&descColor=cfcfcf" width="100%"/>
 
 </div>
 
