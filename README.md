@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=Exploring+LLMs%2C+AI+%26+ML+systems;Interested+in+turning+AI+into+real+platforms%2C+not+just+demos;Curious+about+how+intelligence+%E2%80%94+human+and+artificial+%E2%80%94+scales.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=Exploring+LLMs%2C+AI+%26+ML+systems;Interested+in+turning+AI+into+real+platforms%2C+not+just+demos;Math+enthusiast+%E2%80%94+probability%2C+linear+algebra%2C+the+puzzle+of+it+all;Curious+about+how+intelligence+%E2%80%94+human+and+artificial+%E2%80%94+scales.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,9 +19,14 @@
 
 - 🔭 Exploring **LLMs, applied ML, and AI-driven systems**
 - 🧠 Interested in what it takes to turn an AI idea into an actual **platform** people can use — not just a notebook demo
+- 🔢 A genuine **math enthusiast** — probability, linear algebra, and the kind of problems that are fun just to sit and chew on
 - 🧰 Comfortable across data-heavy Python work, notebooks, and mobile/web tooling
 - 📚 Undergrad at **IIT Madras**, Mechanical Engineering
 - 🌱 Learning in public, one repo at a time
+
+<div align="center">
+<img src="https://latex.codecogs.com/svg.image?%5Cinline%20%5Cdpi%7B120%7D%5Ccolor%7B%2300F5D4%7D%20e%5E%7Bi%5Cpi%7D&plus;1=0%20%5Cquad%7C%5Cquad%20P(A%5Cmid%20B)%3D%5Cfrac%7BP(B%5Cmid%20A)P(A)%7D%7BP(B)%7D" alt="euler-bayes"/>
+</div>
 
 <br/>
 
